@@ -1,6 +1,7 @@
 {
   "name": "Simple config file for VSO",
   "extensions": [
-    "ms-dotnettools.csharp"
+    "ms-dotnettools.csharp",
+    "logerfo.csharp-colors"
   ]
 }
